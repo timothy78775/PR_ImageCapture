@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PR_ImageCapture</string>
+    <string name="version_name">v0.1</string>
+    <string name="get_photo">Take Picture</string>
+    <string name="upload_photo">Upload Picture</string>
+    <string name="upload_this">Upload</string>
+    <string name="view_gallery">View Gallery</string>
+    <string name="image_view">will vary; image taken from camera</string>
+</resources>
